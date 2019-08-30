@@ -1,3 +1,7 @@
 # lol-strategy-board
 Online service for League of Legends strategy meeting
-## dev-branch
+## branch 전략
+- master : 
+- dev :
+- feature :
+- hotfix :
